@@ -5,5 +5,5 @@ if hungry=="yes":
     print("eat burger")
 else:
     thirsty = input("R u thirsty")
-    if hungry=="yes":
+    if thirsty=="yes":
         print("drink water")
